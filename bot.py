@@ -180,7 +180,7 @@ class TaxiBot:
             return False
 
 def main():
-    BOT_TOKEN = "8157322601:AAFRQwyE_Hu8PwluDxWDNkAO2MigR1pTt4o"
+    BOT_TOKEN = ""
     
     # 🔥 ИЗМЕНЕНИЕ: передаем только токен, без шаблона
     bot = TaxiBot(BOT_TOKEN)
